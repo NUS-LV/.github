@@ -14,7 +14,7 @@ LV's research interests include neural architecture, deep learning, graph neural
 
 ![](https://user-images.githubusercontent.com/26020510/231939976-73241e48-98bb-48da-b44b-6b06d603135f.png)
 
-## Recent Works:
+## Recent Publications:
 | Paper | Intro | Useful Links |
 |:----|  :----: | :---:|
 | [![Star](https://img.shields.io/github/stars/VainF/Torch-Pruning.svg?style=social&label=Star)](https://github.com/VainF/Torch-Pruning) <br> [**DepGraph: Towards Any Structural Pruning**](https://arxiv.org/abs/2301.12900) <br> *Gongfan Fang, Xinyin Ma, Mingli Song, Michael Bi Mi, Xinchao Wang* <br> CVPR'23 <br><br> [[**Torch-Pruning (Project)**](https://github.com/VainF/Torch-Pruning)] | <img width="600" alt="image" src="https://github.com/VainF/Torch-Pruning/raw/master/assets/intro.png"> | [[Github](https://github.com/VainF/Torch-Pruning)] <br> [[Demo](https://colab.research.google.com/drive/1TRvELQDNj9PwM-EERWbF3IQOyxZeDepp?usp=sharing)] |
