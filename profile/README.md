@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Learning 🧠 and Vision 👀 Lab at NUS</h1>
+<h1 align="center">Learning and Vision Lab at NUS</h1>
 
 
 <p align="center">
