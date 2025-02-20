@@ -4,9 +4,6 @@
 <h1 align="center">xML Lab at NUS</h1>
 
 
-<p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/26020510/231940129-680fa5f6-4795-4e6b-ace1-a76fae25d4fd.jpg" alt="Sublime's custom image"/>
-</p>
 
 The xML Lab at the National University of Singapore is a team of researchers dedicated to pushing the boundaries of computer vision, machine learning, and their real-life applications. The group is led by Assistant Professor Xinchao Wang. The group's research interests range from fundamental machine learning methods to cutting-edge face/human and image/video analytics techniques, to intelligent search and recommendation systems. The team has achieved significant success, with over 200 technical papers published in top international academic journals and conferences and several best paper or best student paper prizes.
 
